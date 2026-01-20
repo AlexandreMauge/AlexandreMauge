@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Limoges.<br>I play video games.
+I'm currently working on Limoges.
+<br>I play video games.
+<br>I am a student in a computer science BUT program.
 
 
 ## 🌐 Socials:
@@ -16,3 +18,5 @@ I'm currently working on Limoges.<br>I play video games.
 [![](https://visitcount.itsvg.in/api?id=AlexandreMauge&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
