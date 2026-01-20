@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on Limoges.
+<br>I'm a student in a computer science BUT program.
 <br>I play video games.
-<br>I am a student in a computer science BUT program.
 
 
 ## 🌐 Socials:
